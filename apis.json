@@ -1,0 +1,86 @@
+[
+  {
+    "name": "免费API (aa1.cn)",
+    "url": "https://api.aa1.cn/",
+    "category": "聚合",
+    "auth": "none",
+    "note": "1000+公益接口聚合"
+  },
+  {
+    "name": "大米API",
+    "url": "https://api.qqsuu.cn/",
+    "category": "聚合",
+    "auth": "none",
+    "note": "94个免费接口"
+  },
+  {
+    "name": "聚合数据",
+    "url": "https://www.juhe.cn/",
+    "category": "聚合",
+    "auth": "free-register",
+    "note": "部分接口免费"
+  },
+  {
+    "name": "public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "category": "目录",
+    "auth": "none",
+    "note": "GitHub 仓库，国内访问慢"
+  },
+  {
+    "name": "Open-Meteo",
+    "url": "https://open-meteo.com/",
+    "category": "天气",
+    "auth": "none",
+    "note": "完全免费天气API"
+  },
+  {
+    "name": "ip-api",
+    "url": "http://ip-api.com/",
+    "category": "IP",
+    "auth": "none",
+    "note": "IP定位，无需key"
+  },
+  {
+    "name": "ipify",
+    "url": "https://www.ipify.org/",
+    "category": "IP",
+    "auth": "none",
+    "note": "获取公网IP"
+  },
+  {
+    "name": "JSONPlaceholder",
+    "url": "https://jsonplaceholder.typicode.com/",
+    "category": "测试数据",
+    "auth": "none",
+    "note": "假数据测试"
+  },
+  {
+    "name": "RandomUser",
+    "url": "https://randomuser.me/",
+    "category": "测试数据",
+    "auth": "none",
+    "note": "随机用户数据"
+  },
+  {
+    "name": "Advice Slip",
+    "url": "https://adviceslip.com/",
+    "category": "娱乐",
+    "auth": "none",
+    "note": "随机人生建议"
+  },
+  {
+    "name": "TheCatAPI",
+    "url": "https://thecatapi.com/",
+    "category": "动物",
+    "auth": "none",
+    "note": "随机猫咪图"
+  },
+  {
+    "name": "LibreTranslate",
+    "url": "https://libretranslate.com/",
+    "category": "翻译",
+    "auth": "none",
+    "note": "免费版需 API key（2026-11-26 实测 403）"
+  }
+]

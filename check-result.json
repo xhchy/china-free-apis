@@ -1,0 +1,98 @@
+[
+  {
+    "name": "免费API (aa1.cn)",
+    "url": "https://api.aa1.cn/",
+    "status": 200,
+    "ms": 1479,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "name": "大米API",
+    "url": "https://api.qqsuu.cn/",
+    "status": 200,
+    "ms": 1488,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "name": "聚合数据",
+    "url": "https://www.juhe.cn/",
+    "status": 200,
+    "ms": 1451,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "name": "public-apis",
+    "url": "https://github.com/public-apis/public-apis",
+    "status": 0,
+    "ms": 9429,
+    "ok": false,
+    "error": "TimeoutError: The read operation timed out"
+  },
+  {
+    "name": "Open-Meteo",
+    "url": "https://open-meteo.com/",
+    "status": 200,
+    "ms": 839,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "name": "ip-api",
+    "url": "http://ip-api.com/",
+    "status": 200,
+    "ms": 2304,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "name": "ipify",
+    "url": "https://www.ipify.org/",
+    "status": 200,
+    "ms": 2349,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "name": "JSONPlaceholder",
+    "url": "https://jsonplaceholder.typicode.com/",
+    "status": 200,
+    "ms": 845,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "name": "RandomUser",
+    "url": "https://randomuser.me/",
+    "status": 200,
+    "ms": 865,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "name": "Advice Slip",
+    "url": "https://adviceslip.com/",
+    "status": 200,
+    "ms": 1638,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "name": "TheCatAPI",
+    "url": "https://thecatapi.com/",
+    "status": 200,
+    "ms": 3902,
+    "ok": true,
+    "error": ""
+  },
+  {
+    "name": "LibreTranslate",
+    "url": "https://libretranslate.com/",
+    "status": 403,
+    "ms": 700,
+    "ok": false,
+    "error": "HTTP 403"
+  }
+]
